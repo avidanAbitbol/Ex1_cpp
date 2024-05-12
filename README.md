@@ -40,7 +40,7 @@ To use this library in your project, follow these steps:
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/graph-algorithms-library.git
+git clone https://github.com/avidanAbitbol/Ex1_cpp.git
 ```
 
 By Using the Makefile
